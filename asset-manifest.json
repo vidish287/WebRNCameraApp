@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/WebRNCameraApp/static/js/app.0db8f680.chunk.js",
+    "app.js.map": "/WebRNCameraApp/static/js/app.0db8f680.chunk.js.map",
+    "runtime~app.js": "/WebRNCameraApp/static/js/runtime~app.8d4fc19d.js",
+    "runtime~app.js.map": "/WebRNCameraApp/static/js/runtime~app.8d4fc19d.js.map",
+    "static/js/2.29d878b8.chunk.js": "/WebRNCameraApp/static/js/2.29d878b8.chunk.js",
+    "static/js/2.29d878b8.chunk.js.map": "/WebRNCameraApp/static/js/2.29d878b8.chunk.js.map",
+    "favicon-16.png": "/WebRNCameraApp/favicon-16.png",
+    "favicon-32.png": "/WebRNCameraApp/favicon-32.png",
+    "favicon.ico": "/WebRNCameraApp/favicon.ico",
+    "index.html": "/WebRNCameraApp/index.html",
+    "manifest.json": "/WebRNCameraApp/manifest.json",
+    "serve.json": "/WebRNCameraApp/serve.json",
+    "static/js/2.29d878b8.chunk.js.LICENSE.txt": "/WebRNCameraApp/static/js/2.29d878b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.8d4fc19d.js",
+    "static/js/2.29d878b8.chunk.js",
+    "static/js/app.0db8f680.chunk.js"
+  ]
+}
